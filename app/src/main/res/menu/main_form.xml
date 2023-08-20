@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:tools="http://schemas.android.com/tools">
+
+    
+    <!-- think about deleting the code above for settings -->
+    <item 
+        android:id="@+id/about"
+        android:title="About"
+        tools:ignore="HardcodedString,HardcodedText"/>
+	<!--<item
+	    android:id="@+id/showSaveScreen"
+	    android:title="Saved Summaries"
+	    tools:ignore="HardcodedText"/> -->
+</menu>
